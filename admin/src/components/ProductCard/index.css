@@ -1,0 +1,27 @@
+#product-card {
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#product-card > .id {
+    font-size: 25px;
+}
+
+#product-card > .name {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#product-card > .chips {
+    margin-bottom: 20px;
+
+}
+
+#product-card > .chips > .title {
+    color: green;
+    font-size: 15px;
+    margin-bottom: 3px;
+    
+}

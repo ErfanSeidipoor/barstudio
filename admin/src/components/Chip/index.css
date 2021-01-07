@@ -1,0 +1,7 @@
+#chip {
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 5px;
+    display: inline-block;
+    color: green;
+}

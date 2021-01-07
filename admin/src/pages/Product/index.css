@@ -1,0 +1,12 @@
+#product-page > .header {
+    font-size: 30px;
+    color: green;
+}
+
+#product-page > .edit-form {
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
